@@ -49,6 +49,10 @@ body {
     transform: scale(0.85);
 }
 
+.controls__color:active {
+    transform: scale(0.85);
+}
+
 
 .controls .controls__colors {
     display: flex;
